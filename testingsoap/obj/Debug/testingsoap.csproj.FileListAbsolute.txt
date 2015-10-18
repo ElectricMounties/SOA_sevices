@@ -1,0 +1,12 @@
+C:\Users\Jordan\Desktop\testingsoap\bin\Debug\testingsoap.exe
+C:\Users\Jordan\Desktop\testingsoap\bin\Debug\testingsoap.pdb
+C:\Users\Jordan\Desktop\testingsoap\obj\Debug\testingsoap.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\testingsoap\obj\Debug\testingsoap.Form1.resources
+C:\Users\Jordan\Desktop\testingsoap\obj\Debug\testingsoap.Properties.Resources.resources
+C:\Users\Jordan\Desktop\testingsoap\obj\Debug\testingsoap.csproj.GenerateResource.Cache
+C:\Users\Jordan\Desktop\testingsoap\obj\Debug\testingsoap.exe
+C:\Users\Jordan\Desktop\testingsoap\obj\Debug\testingsoap.pdb
+C:\Users\Jordan\Documents\Visual Studio 2015\testingsoap\obj\Debug\testingsoap.exe
+C:\Users\Jordan\Documents\Visual Studio 2015\testingsoap\obj\Debug\testingsoap.pdb
+C:\Users\Jordan\Source\Repos\SOA_sevices\testingsoap\obj\Debug\testingsoap.exe
+C:\Users\Jordan\Source\Repos\SOA_sevices\testingsoap\obj\Debug\testingsoap.pdb

@@ -1,0 +1,24 @@
+POST http://www.webservicex.net/globalweather.asmx HTTP/1.1
+Host: www.webservicex.net
+User-Agent: gSOAP/2.8
+Content-Type: application/soap+xml; charset=utf-8; action="http://www.webserviceX.NET/GetCitiesByCountry"
+Content-Length: 568
+Connection: close
+SOAPAction: "http://www.webserviceX.NET/GetCitiesByCountry"
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope
+ xmlns:SOAP-ENV="http://www.w3.org/2003/05/soap-envelope"
+ xmlns:SOAP-ENC="http://www.w3.org/2003/05/soap-encoding"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+ xmlns:ns2="http://www.webserviceX.NET/GlobalWeatherSoap"
+ xmlns:ns1="http://www.webserviceX.NET"
+ xmlns:ns3="http://www.webserviceX.NET/GlobalWeatherSoap12">
+ <SOAP-ENV:Body>
+   <ns1:GetCitiesByCountry>
+    <ns1:CountryName>Egypt</ns1:CountryName>
+   </ns1:GetCitiesByCountry>
+
+ </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

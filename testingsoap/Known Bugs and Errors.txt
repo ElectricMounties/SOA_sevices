@@ -1,0 +1,10 @@
+Known Errors and Bugs
+
+1. The methods that are accessed within each of the web services
+   return errors
+
+2. We cannot parse the xml data
+
+3. You cannot choose methods, and you cannot input parameters
+
+4. only 2 services are available in config
